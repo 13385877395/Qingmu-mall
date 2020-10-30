@@ -43,6 +43,8 @@ submit.onclick = function () {
     }
     if(sum !== 2){
         return false;
+    }else{
+        // @todo 登陆
     }
 };
 function fn1(span) {

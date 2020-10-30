@@ -123,6 +123,9 @@ summary {
 .fr {
 	float: right;
 }
+.fr a{
+	color: blue;
+}
 
 .mt {
 	margin-top: 80px;

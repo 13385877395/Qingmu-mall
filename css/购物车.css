@@ -101,6 +101,8 @@ img {
 }
 .outer9 .inter2 .del{
     margin-left: 80px;
+    color: blue;
+    cursor: pointer;
 }
 .outer9 .inter3{
     width: 1118px;
@@ -120,6 +122,8 @@ img {
 }
 .outer9 .inter3 .ss1{
     margin-left: 40px;
+    color: blue;
+    cursor: pointer;
 }
 .outer9 .inter3 .ss2{
     margin-left: 40px;
@@ -148,7 +152,7 @@ img {
 }
 .outer9 .inter3 .foot .ss3{
     float: right;
-    padding: 0 60px;
+    padding: 0 100px 0 0;
 }
 .outer9 .inter3 .foot .ss4{
     color: #666;
